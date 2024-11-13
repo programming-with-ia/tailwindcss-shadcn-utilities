@@ -15,7 +15,7 @@
     "shadcn",
     "shadcn-tailwind-plugin"
   ],
-  "author": "Your Name",
+  "author": "immi",
   "license": "MIT",
   "main": "dist/index.js",
   "files": [
