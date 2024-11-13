@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-shadcn-utilities",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Tailwind CSS plugin to generate custom color utilities for background and foreground.",
   "repository": "https://github.com/programming-with-ia/tailwindcss-shadcn-utilities",
   "keywords": [
