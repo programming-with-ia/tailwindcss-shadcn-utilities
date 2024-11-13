@@ -1,0 +1,38 @@
+{
+  "name": "tailwindcss-shadcn-utilities",
+  "version": "0.0.1",
+  "description": "A Tailwind CSS plugin to generate custom color utilities for background and foreground.",
+  "repository": "https://github.com/programming-with-ia/tailwindcss-shadcn-utilities",
+  "keywords": [
+    "plugin",
+    "tailwind",
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "color-utilities",
+    "tailwindcss-shadcn-utilities",
+    "shadcn-utilites",
+    "utilites",
+    "shadcn",
+    "shadcn-tailwind-plugin"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "bugs": {
+    "url": "https://github.com/programming-with-ia/tailwindcss-shadcn-utilities/issues"
+  },
+  "homepage": "https://github.com/programming-with-ia/tailwindcss-shadcn-utilities#readme",
+  "scripts": {
+    "build": "tsc",
+    "publish": "npm run build && npm publish"
+  },
+  "peerDependencies": {
+    "tailwindcss": "^3.1.8"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
